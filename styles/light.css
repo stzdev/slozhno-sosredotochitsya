@@ -15,7 +15,7 @@
 }
 
 .page.theme_light .main__title  {
-  color: black;
+  color: var(--paragraph-text, #353430);
 }
 
 .page.theme_light .title-decor { 
